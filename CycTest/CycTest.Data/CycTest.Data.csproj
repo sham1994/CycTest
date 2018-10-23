@@ -52,6 +52,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context.cs" />
+    <Compile Include="Migrations\201810230708034_initialdbcreation.cs" />
+    <Compile Include="Migrations\201810230708034_initialdbcreation.Designer.cs">
+      <DependentUpon>201810230708034_initialdbcreation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -59,7 +64,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Migrations\" />
+    <EmbeddedResource Include="Migrations\201810230708034_initialdbcreation.resx">
+      <DependentUpon>201810230708034_initialdbcreation.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CycTest.Entities\CycTest.Entities.csproj">

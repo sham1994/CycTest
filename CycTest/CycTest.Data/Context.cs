@@ -11,7 +11,7 @@ namespace CycTest.Data
    public  class Context : DbContext
     {
 
-        public Context() : base("name = SampleConnectionString")
+        public Context() : base("name = ConnectionString")
         {
             
 
