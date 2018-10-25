@@ -1,0 +1,12 @@
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Definitions\bin\Debug\CycTest.Definitions.dll.config
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Definitions\bin\Debug\CycTest.Definitions.dll
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Definitions\bin\Debug\CycTest.Definitions.pdb
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Definitions\bin\Debug\CycTest.Entities.dll
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Definitions\bin\Debug\EntityFramework.dll
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Definitions\bin\Debug\EntityFramework.SqlServer.dll
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Definitions\bin\Debug\CycTest.Entities.pdb
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Definitions\bin\Debug\EntityFramework.xml
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Definitions\bin\Debug\EntityFramework.SqlServer.xml
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Definitions\obj\Debug\CycTest.Definitions.csprojResolveAssemblyReference.cache
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Definitions\obj\Debug\CycTest.Definitions.dll
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Definitions\obj\Debug\CycTest.Definitions.pdb

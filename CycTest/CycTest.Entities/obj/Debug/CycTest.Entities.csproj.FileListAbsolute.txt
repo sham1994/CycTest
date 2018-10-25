@@ -1,0 +1,4 @@
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Entities\bin\Debug\CycTest.Entities.dll
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Entities\bin\Debug\CycTest.Entities.pdb
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Entities\obj\Debug\CycTest.Entities.dll
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.Entities\obj\Debug\CycTest.Entities.pdb

@@ -1,0 +1,5 @@
+D:\Essentials\Hosted Files\CycTest\CycTest\CysTest.Utilities\bin\Debug\CysTest.Utilities.dll
+D:\Essentials\Hosted Files\CycTest\CycTest\CysTest.Utilities\bin\Debug\CysTest.Utilities.pdb
+D:\Essentials\Hosted Files\CycTest\CycTest\CysTest.Utilities\obj\Debug\CysTest.Utilities.csprojResolveAssemblyReference.cache
+D:\Essentials\Hosted Files\CycTest\CycTest\CysTest.Utilities\obj\Debug\CysTest.Utilities.dll
+D:\Essentials\Hosted Files\CycTest\CycTest\CysTest.Utilities\obj\Debug\CysTest.Utilities.pdb
